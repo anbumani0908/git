@@ -1,6 +1,2 @@
-# Git Code 
-
-This is a complete git course
-
-# This is change from Feature branch
-# This is feature 2.0
+#Git Corse
+complete git course
